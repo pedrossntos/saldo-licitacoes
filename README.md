@@ -1,6 +1,7 @@
 # Saldo-Licitações
 
 Automação de criação de planilhas para controle de contratos - Infraestrutura e Manutenção/ALMOX.
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pedrossntos/saldo-licitacoes/blob/main/saldo_licitacoes.ipynb)
 
 ---
 
@@ -9,7 +10,7 @@ Automação de criação de planilhas para controle de contratos - Infraestrutur
 Siga os passos abaixo para utilizar a automação:
 
 1. **Extrair o Relatório**:
-   - Extraia o relatório no SCP em formato **HTML**.
+   - Extraia o relatório no SCP em formato **HTML** ou **HTM**.
 
 2. **Renomear a Variável**:
    - Renomeie a variável `nome_arquivo` no código. 
@@ -20,19 +21,9 @@ Siga os passos abaixo para utilizar a automação:
 
 ---
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Contato
 
 Para mais informações, entre em contato:
 - **Pedro Santos**
 - **pedro.henrique@**
 ---
-
-**Nota**: Este projeto visa facilitar o controle de contratos, contribuindo para a eficiência e transparência na gestão de recursos.
